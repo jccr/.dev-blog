@@ -3,8 +3,6 @@ layout: post
 title:  "It's about time"
 ---
 
-# It's about time I launch this!
-
 After about a year of holding, and paying, for this domain (and other potential domains that are way older)...
 I've finally decided to do it. I'll launch a personal website!
 
