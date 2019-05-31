@@ -15,5 +15,4 @@ I'm a software developer who writes documentation, so I picked what's natural to
 
 [GitHub Pages](https://pages.github.com/) which provides [Jekyll](https://jekyllrb.com/), which lets me post using [Markdown](https://github.github.com/gfm/).
 
---- 
 Hello world.. get ready to hear me out!
