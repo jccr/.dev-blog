@@ -25,7 +25,7 @@ This Stack Exchange user seemed to be having the same problem as me, and `dig` w
 I read the one and only answer:
 > Most likely it's a timezone or system time issue. Set your computer to the correct time and timezone and it will probably go away.
 
-The long answer pointed out DNSSEC validation errors, which relies on the correct local time to do signature checking.
+The long answer pointed out [DNSSEC](https://www.cloudflare.com/dns/dnssec/how-dnssec-works/) validation errors, which relies on the correct local time to do signature checking. This is great! My system is protected from DNS spoofing attacks and such, which `dig` doesn't show.
 
 I looked at my time display widget on my i3 bar and yea.. my system time was way off! How did I not notice this?
 
