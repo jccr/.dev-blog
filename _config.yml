@@ -1,1 +1,10 @@
+title: jccr.dev
+author: Juan Carlos Corona Romero
+email: c@rlos.email
+
+show_excerpts: true
+
 theme: minima
+
+minima:
+  date_format: "%b %-d, %Y"
