@@ -4,9 +4,9 @@ title:  "Why are almost all my DNS lookups failing?"
 ---
 
 I have my own installation of [Arch Linux](https://www.archlinux.org). 
-This means that I hand picked the OS components, and I configured things manually.
+This means that I hand picked the OS components, and I configured things manually. Sometimes things go wrong and I have to figure out, usually without a specific guide, how to fix obscure problems. 
 
-Doing this has helped me understand a GNU/Linux distribution inside and out. One day I'll write a blog post about this. I'll write about the set up, about the experience, and what I have learned so far.
+> Doing this has helped me understand a GNU/Linux distribution inside and out. One day I'll write a blog post about this. I'll write about the set up, about the experience, and what I have learned so far.
 
 Today though I want to tell you about how I could only visit some websites. Google worked, my most frequently websites worked, but I got IP address not resolved errors everywhere else!
 
